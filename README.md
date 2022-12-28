@@ -1,0 +1,1 @@
+# -LG-single-product-page
